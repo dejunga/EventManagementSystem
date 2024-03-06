@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementSystem", "EventManagementSystem.csproj", "{15A97BBA-46C7-4F35-BFAB-251C67881EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementSystem.Web", "EventManagementSystem.Web\EventManagementSystem.Web.csproj", "{EFC32250-4A1D-40D8-96D9-CEF16D88D0E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementSystem.Mvc", "EventManagementSystem.Mvc\EventManagementSystem.Mvc.csproj", "{7EBACB9D-E97E-4DC5-9BD4-3FF24B470071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementSystem.Api", "EventManagementSystem.Api\EventManagementSystem.Api.csproj", "{71E4E0F8-C38E-42F2-A06F-D4B8AD1A02DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementSystem.Models", "EventManagementSystem.Models\EventManagementSystem.Models.csproj", "{7DB61DDA-93AF-46BC-9DAD-55544E842AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementSystem.Data", "EventManagementSystem.Data\EventManagementSystem.Data.csproj", "{E1917510-421C-47C5-BB55-3576E1F0FEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A97BBA-46C7-4F35-BFAB-251C67881EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A97BBA-46C7-4F35-BFAB-251C67881EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A97BBA-46C7-4F35-BFAB-251C67881EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A97BBA-46C7-4F35-BFAB-251C67881EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC32250-4A1D-40D8-96D9-CEF16D88D0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC32250-4A1D-40D8-96D9-CEF16D88D0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC32250-4A1D-40D8-96D9-CEF16D88D0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC32250-4A1D-40D8-96D9-CEF16D88D0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBACB9D-E97E-4DC5-9BD4-3FF24B470071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBACB9D-E97E-4DC5-9BD4-3FF24B470071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBACB9D-E97E-4DC5-9BD4-3FF24B470071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBACB9D-E97E-4DC5-9BD4-3FF24B470071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E4E0F8-C38E-42F2-A06F-D4B8AD1A02DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E4E0F8-C38E-42F2-A06F-D4B8AD1A02DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E4E0F8-C38E-42F2-A06F-D4B8AD1A02DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E4E0F8-C38E-42F2-A06F-D4B8AD1A02DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB61DDA-93AF-46BC-9DAD-55544E842AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB61DDA-93AF-46BC-9DAD-55544E842AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB61DDA-93AF-46BC-9DAD-55544E842AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB61DDA-93AF-46BC-9DAD-55544E842AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1917510-421C-47C5-BB55-3576E1F0FEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1917510-421C-47C5-BB55-3576E1F0FEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1917510-421C-47C5-BB55-3576E1F0FEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1917510-421C-47C5-BB55-3576E1F0FEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381EEC83-A556-4861-BD24-D0DEA0D68EFF}
+	EndGlobalSection
+EndGlobal

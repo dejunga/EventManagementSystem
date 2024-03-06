@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIhqrd/Y7iPv1BJJLJec+b2bl4HZiGBmEjtUxioyXc89iovU78dztJ8KbtCeK+iHzGXall5P/NJhrKzV72oT3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j\\Desktop\\random\\dotnet\\EventManagementSystem\\EventManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

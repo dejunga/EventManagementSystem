@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EventManagementSystem
+build_property.RootNamespace = EventManagementSystem
+build_property.ProjectDir = C:\Users\j\Desktop\random\dotnet\EventManagementSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\j\Desktop\random\dotnet\EventManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLk12Y1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-8ft3cwjk5l
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/EventManagementSystem.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXZlbnRNYW5hZ2VtZW50U3lzdGVtLldlYlxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-yttvq9zndj
+
+[C:/Users/j/Desktop/random/dotnet/EventManagementSystem/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j4ql1kaydr
